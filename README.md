@@ -1,7 +1,7 @@
 # Deep Learning for Fashion MNIST: A Comparative Study (2025)
 
-> **Author:** Muhammad Mubashar Shahzad 
-> **University:** University of Trieste 
+> **Author:** Muhammad Mubashar Shahzad,
+> **University:** University of Trieste, 
 > **Date:** 07/2025
 
 ---
